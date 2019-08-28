@@ -1,8 +1,3 @@
----
-title: "Welcome"
-nav_order: 0
----
-
 ## Welcome!!!
 
 On this site you will find usefull resources about how to build, prototype, connect and fix your interactive prototypes.
