@@ -1,5 +1,18 @@
 ---
-layout: "post"
 title: "Arduino"
-date: "2019-08-28 08:01"
+nav_order: 0
 ---
+
+# Learn Arduino
+
+### Pomodoro
+A series of video classed about using Arduino to produce advanced asynchronous feedback produced fot the students of Interaction & Electronics
+
+Video class
+{: .label }
+
+Led animations
+{: .label }
+
+Asinchronous
+{: .label }

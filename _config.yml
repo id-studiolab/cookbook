@@ -6,10 +6,12 @@ remote_theme: pmarsceill/just-the-docs
 # Enable or disable the site search
 search_enabled: true
 
+color_scheme: "dark"
+
 aux_links:
     "Contribute to the repo on github":
       - "//github.com/id-studiolab/cookbook"
-      
+
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 # ga_tracking: UA-96156394-2
