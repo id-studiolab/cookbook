@@ -1,5 +1,5 @@
 ---
-title: "p5.js"
+title: "projects"
 nav_order: 100
 ---
 
