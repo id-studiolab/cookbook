@@ -34,3 +34,5 @@ If you are already familiar with github you can also contribute by cloning the r
 
 #### 3. Wait for the resource to be published
 Your resource will manually be added to the list, you will receive a notification when the contents will be published.
+
+#### 4. If you would like to see on this repository selected resources about a specific topic, you can also request that by opening a [new issue]((https://github.com/id-studiolab/cookbook/issues)).
